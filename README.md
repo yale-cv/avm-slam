@@ -1,14 +1,14 @@
 # AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird’s Eye View for Automated Valet Parking
 
-**Authors:** Ye Li^1,2,3^, Wenchao Yang^3^, Ju Tao^3^, Qianlei Wang^1,2^, Zhe Cui^1,2^, and Xiaolin Qin^1,2^
+**Authors:** Ye Li<sup>1,2,3</sup>, Wenchao Yang<sup>3</sup>, Ju Tao<sup>3</sup>, Qianlei Wang<sup>1,2</sup>, Zhe Cui<sup>1,2</sup>, and Xiaolin Qin<sup>1,2</sup>
 
 **Affiliations:**
 
-^1^ Chengdu Institute of Computer Applications, Chinese Academy of Sciences, Chengdu, Sichuan 610041, China (e-mail: yale.li.cn@gmail.com).
+<sup>1</sup> Chengdu Institute of Computer Applications, Chinese Academy of Sciences, Chengdu, Sichuan 610041, China (e-mail: yale.li.cn@gmail.com).
 
-^2^ University of Chinese Academy of Sciences, Beijing 100049, China.
+<sup>2</sup> University of Chinese Academy of Sciences, Beijing 100049, China.
 
-^3^ Jiayu Intelligent Technology Co.,Ltd. (Affiliated With Great Wall Motor Company Limited).
+<sup>3</sup> Jiayu Intelligent Technology Co.,Ltd. (Affiliated With Great Wall Motor Company Limited).
 
 
 ## Introduction
